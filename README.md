@@ -5,6 +5,6 @@ my name is permanently ([he/his](https://pronoun.is/he)), however some of you ma
 my main focus are my qualifications right now, but when i do find any spare time i usually work on other random projects. i'm trying to pick up java (helps that i know a fair amount of c#) and hope to learn more of it. 
 
 ### where can i find more of you?
-good question, person who would never ask that! you can usually find me on [my discord](https://discord.gg/amongjoe), or on [twitter](https://twitter.com/heyiambilly).
+good question, person who would never ask that! you can usually find me on [my discord](https://discord.gg/amongjoe), ~~or on [twitter](https://twitter.com/heyiambilly)~~.
 
 if you're looking to contact me for any formal reasons, you'd be better contacting me via email. good thing it shows on my profile, right?
