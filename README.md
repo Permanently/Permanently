@@ -9,4 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#167](https://github.com/PrismarineJS/prismarine-viewer/issues/167) in [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
+2. 🗣 Commented on [#167](https://github.com/PrismarineJS/prismarine-viewer/issues/167) in [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
+3. 🗣 Commented on [#167](https://github.com/PrismarineJS/prismarine-viewer/issues/167) in [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
+4. 🗣 Commented on [#167](https://github.com/PrismarineJS/prismarine-viewer/issues/167) in [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
+5. 🗣 Commented on [#167](https://github.com/PrismarineJS/prismarine-viewer/issues/167) in [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
 <!--END_SECTION:activity-->
