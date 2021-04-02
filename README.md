@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#72](https://github.com/slushiegoose/Town-Of-Us/issues/72) in [slushiegoose/Town-Of-Us](https://github.com/slushiegoose/Town-Of-Us)
-2. 🗣 Commented on [#176](https://github.com/Chocohead/OptiFabric/issues/176) in [Chocohead/OptiFabric](https://github.com/Chocohead/OptiFabric)
-3. 🗣 Commented on [#288](https://github.com/Puharesource/TitleManager/issues/288) in [Puharesource/TitleManager](https://github.com/Puharesource/TitleManager)
-4. ❗️ Closed issue [#167](https://github.com/PrismarineJS/prismarine-viewer/issues/167) in [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
-5. 🗣 Commented on [#167](https://github.com/PrismarineJS/prismarine-viewer/issues/167) in [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
+1. 🗣 Commented on [#72](https://github.com/slushiegoose/Town-Of-Us/issues/72) in [slushiegoose/Town-Of-Us](https://github.com/slushiegoose/Town-Of-Us)
+2. ❗️ Opened issue [#72](https://github.com/slushiegoose/Town-Of-Us/issues/72) in [slushiegoose/Town-Of-Us](https://github.com/slushiegoose/Town-Of-Us)
+3. 🗣 Commented on [#176](https://github.com/Chocohead/OptiFabric/issues/176) in [Chocohead/OptiFabric](https://github.com/Chocohead/OptiFabric)
+4. 🗣 Commented on [#288](https://github.com/Puharesource/TitleManager/issues/288) in [Puharesource/TitleManager](https://github.com/Puharesource/TitleManager)
+5. ❗️ Closed issue [#167](https://github.com/PrismarineJS/prismarine-viewer/issues/167) in [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
 <!--END_SECTION:activity-->
