@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Permanently/BedwarsBeggars/issues/3) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
-2. 🎉 Merged PR [#1](https://github.com/Permanently/BedwarsBeggars/pull/1) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
-3. 🗣 Commented on [#72](https://github.com/slushiegoose/Town-Of-Us/issues/72) in [slushiegoose/Town-Of-Us](https://github.com/slushiegoose/Town-Of-Us)
-4. ❗️ Opened issue [#72](https://github.com/slushiegoose/Town-Of-Us/issues/72) in [slushiegoose/Town-Of-Us](https://github.com/slushiegoose/Town-Of-Us)
-5. 🗣 Commented on [#176](https://github.com/Chocohead/OptiFabric/issues/176) in [Chocohead/OptiFabric](https://github.com/Chocohead/OptiFabric)
+1. 🎉 Merged PR [#3](https://github.com/Permanently/BedwarsBeggars/pull/3) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+2. 🗣 Commented on [#3](https://github.com/Permanently/BedwarsBeggars/issues/3) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+3. 🎉 Merged PR [#1](https://github.com/Permanently/BedwarsBeggars/pull/1) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+4. 🗣 Commented on [#72](https://github.com/slushiegoose/Town-Of-Us/issues/72) in [slushiegoose/Town-Of-Us](https://github.com/slushiegoose/Town-Of-Us)
+5. ❗️ Opened issue [#72](https://github.com/slushiegoose/Town-Of-Us/issues/72) in [slushiegoose/Town-Of-Us](https://github.com/slushiegoose/Town-Of-Us)
 <!--END_SECTION:activity-->
