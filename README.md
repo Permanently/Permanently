@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/yummypasta/MinecraftManhunt/issues/66) in [yummypasta/MinecraftManhunt](https://github.com/yummypasta/MinecraftManhunt)
-2. 🗣 Commented on [#176](https://github.com/Chocohead/OptiFabric/issues/176) in [Chocohead/OptiFabric](https://github.com/Chocohead/OptiFabric)
-3. 🗣 Commented on [#5](https://github.com/Permanently/BedwarsBeggars/issues/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+1. ❗️ Opened issue [#54](https://github.com/MaxMaeder/DriveBackupV2/issues/54) in [MaxMaeder/DriveBackupV2](https://github.com/MaxMaeder/DriveBackupV2)
+2. 🗣 Commented on [#66](https://github.com/yummypasta/MinecraftManhunt/issues/66) in [yummypasta/MinecraftManhunt](https://github.com/yummypasta/MinecraftManhunt)
+3. 🗣 Commented on [#176](https://github.com/Chocohead/OptiFabric/issues/176) in [Chocohead/OptiFabric](https://github.com/Chocohead/OptiFabric)
 4. 🗣 Commented on [#5](https://github.com/Permanently/BedwarsBeggars/issues/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
-5. 💪 Opened PR [#5](https://github.com/xXTheBigBearXx/discord-hypixel-bridge/pull/5) in [xXTheBigBearXx/discord-hypixel-bridge](https://github.com/xXTheBigBearXx/discord-hypixel-bridge)
+5. 🗣 Commented on [#5](https://github.com/Permanently/BedwarsBeggars/issues/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
 <!--END_SECTION:activity-->
