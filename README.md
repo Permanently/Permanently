@@ -11,7 +11,7 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#193](https://github.com/NamelessMC/Nameless-Link/issues/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
 2. 🗣 Commented on [#193](https://github.com/NamelessMC/Nameless-Link/issues/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
-3. 💪 Opened PR [#194](https://github.com/NamelessMC/Nameless-Link/pull/194) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
-4. 💪 Opened PR [#193](https://github.com/NamelessMC/Nameless-Link/pull/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
-5. 🗣 Commented on [#91](https://github.com/CobbleSword/NachoSpigot/issues/91) in [CobbleSword/NachoSpigot](https://github.com/CobbleSword/NachoSpigot)
+3. 🗣 Commented on [#193](https://github.com/NamelessMC/Nameless-Link/issues/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+4. 💪 Opened PR [#194](https://github.com/NamelessMC/Nameless-Link/pull/194) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+5. 💪 Opened PR [#193](https://github.com/NamelessMC/Nameless-Link/pull/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
 <!--END_SECTION:activity-->
