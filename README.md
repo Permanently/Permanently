@@ -10,8 +10,8 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 ### recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2829](https://github.com/cabaletta/baritone/issues/2829) in [cabaletta/baritone](https://github.com/cabaletta/baritone)
-2. 🗣 Commented on [#193](https://github.com/NamelessMC/Nameless-Link/issues/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+2. 🗣 Commented on [#2829](https://github.com/cabaletta/baritone/issues/2829) in [cabaletta/baritone](https://github.com/cabaletta/baritone)
 3. 🗣 Commented on [#193](https://github.com/NamelessMC/Nameless-Link/issues/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
 4. 🗣 Commented on [#193](https://github.com/NamelessMC/Nameless-Link/issues/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
-5. 💪 Opened PR [#194](https://github.com/NamelessMC/Nameless-Link/pull/194) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+5. 🗣 Commented on [#193](https://github.com/NamelessMC/Nameless-Link/issues/193) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
 <!--END_SECTION:activity-->
