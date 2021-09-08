@@ -1,5 +1,5 @@
 ### hey!
-my name is permanently ([he/him](https://pronoun.is/he)), however some of you may know me as perm, billy, or dog. i'm a student currently studying a-levels, mainly computer science. i'd love to go into software development or cybersec, but until then i'm just messing around with code and seeing what i can (and can't) do!
+my name is permanently ([he/him](https://pronoun.is/he)), however some of you may know me as perm, or billy. i'm a student currently studying a-levels, mainly computer science. i'd love to go into software development or cybersec, but until then i'm just messing around with code and seeing what i can (and can't) do!
 
 ### what are your current aims right now?
 my main focus are my qualifications right now, but when i do find any spare time i usually work on other random projects such as [Pharmer](https://github.com/Permanently/Pharmer). i'm trying to pick up java and hope to learn more of it, and am also trying out nodejs for a college project as well as a few other small projects here and there. i have a fair grip of c#, and have been programming with it for the past two years in college. when will i put that to use on here? who knows!
