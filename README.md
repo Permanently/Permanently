@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2400](https://github.com/NamelessMC/Nameless/issues/2400) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-2. ❗️ Closed issue [#2400](https://github.com/NamelessMC/Nameless/issues/2400) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-3. ❗️ Opened issue [#2400](https://github.com/NamelessMC/Nameless/issues/2400) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-4. 🗣 Commented on [#2829](https://github.com/cabaletta/baritone/issues/2829) in [cabaletta/baritone](https://github.com/cabaletta/baritone)
+1. ❗️ Opened issue [#2406](https://github.com/NamelessMC/Nameless/issues/2406) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
+2. 🗣 Commented on [#2400](https://github.com/NamelessMC/Nameless/issues/2400) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
+3. ❗️ Closed issue [#2400](https://github.com/NamelessMC/Nameless/issues/2400) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
+4. ❗️ Opened issue [#2400](https://github.com/NamelessMC/Nameless/issues/2400) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
 5. 🗣 Commented on [#2829](https://github.com/cabaletta/baritone/issues/2829) in [cabaletta/baritone](https://github.com/cabaletta/baritone)
 <!--END_SECTION:activity-->
