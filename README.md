@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Permanently/BedwarsBeggars/pull/6) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+1. ❗️ Opened issue [#7](https://github.com/Permanently/BedwarsBeggars/issues/7) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
 2. 🗣 Commented on [#6](https://github.com/Permanently/BedwarsBeggars/issues/6) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
-3. ❗️ Opened issue [#43](https://github.com/dsoares/roundcube-rcguard/issues/43) in [dsoares/roundcube-rcguard](https://github.com/dsoares/roundcube-rcguard)
-4. ❗️ Opened issue [#2408](https://github.com/NamelessMC/Nameless/issues/2408) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-5. ❗️ Opened issue [#2406](https://github.com/NamelessMC/Nameless/issues/2406) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
+3. 🎉 Merged PR [#6](https://github.com/Permanently/BedwarsBeggars/pull/6) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+4. 🗣 Commented on [#6](https://github.com/Permanently/BedwarsBeggars/issues/6) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+5. ❗️ Opened issue [#43](https://github.com/dsoares/roundcube-rcguard/issues/43) in [dsoares/roundcube-rcguard](https://github.com/dsoares/roundcube-rcguard)
 <!--END_SECTION:activity-->
