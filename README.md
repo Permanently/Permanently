@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/undergroundwires/privacy.sexy/pull/117) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-2. 🗣 Commented on [#110](https://github.com/undergroundwires/privacy.sexy/issues/110) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+1. 💪 Opened PR [#125](https://github.com/undergroundwires/privacy.sexy/pull/125) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+2. 💪 Opened PR [#117](https://github.com/undergroundwires/privacy.sexy/pull/117) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
 3. 🗣 Commented on [#110](https://github.com/undergroundwires/privacy.sexy/issues/110) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-4. ❗️ Opened issue [#110](https://github.com/undergroundwires/privacy.sexy/issues/110) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-5. 💪 Opened PR [#7](https://github.com/krusic22/Potato-Scripts/pull/7) in [krusic22/Potato-Scripts](https://github.com/krusic22/Potato-Scripts)
+4. 🗣 Commented on [#110](https://github.com/undergroundwires/privacy.sexy/issues/110) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+5. ❗️ Opened issue [#110](https://github.com/undergroundwires/privacy.sexy/issues/110) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
 <!--END_SECTION:activity-->
