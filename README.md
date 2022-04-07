@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1599](https://github.com/parkervcp/eggs/pull/1599) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-2. 🗣 Commented on [#125](https://github.com/undergroundwires/privacy.sexy/issues/125) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-3. 🗣 Commented on [#117](https://github.com/undergroundwires/privacy.sexy/issues/117) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-4. 💪 Opened PR [#125](https://github.com/undergroundwires/privacy.sexy/pull/125) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-5. 💪 Opened PR [#117](https://github.com/undergroundwires/privacy.sexy/pull/117) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+1. ❗️ Closed issue [#2406](https://github.com/NamelessMC/Nameless/issues/2406) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
+2. 💪 Opened PR [#1599](https://github.com/parkervcp/eggs/pull/1599) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+3. 🗣 Commented on [#125](https://github.com/undergroundwires/privacy.sexy/issues/125) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+4. 🗣 Commented on [#117](https://github.com/undergroundwires/privacy.sexy/issues/117) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+5. 💪 Opened PR [#125](https://github.com/undergroundwires/privacy.sexy/pull/125) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
 <!--END_SECTION:activity-->
