@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2406](https://github.com/NamelessMC/Nameless/issues/2406) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-2. 💪 Opened PR [#1599](https://github.com/parkervcp/eggs/pull/1599) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-3. 🗣 Commented on [#125](https://github.com/undergroundwires/privacy.sexy/issues/125) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-4. 🗣 Commented on [#117](https://github.com/undergroundwires/privacy.sexy/issues/117) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-5. 💪 Opened PR [#125](https://github.com/undergroundwires/privacy.sexy/pull/125) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+1. 🎉 Merged PR [#1](https://github.com/Permanently/SelectorServer/pull/1) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
+2. 🎉 Merged PR [#3](https://github.com/Permanently/SelectorServer/pull/3) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
+3. 🎉 Merged PR [#2](https://github.com/Permanently/SelectorServer/pull/2) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
+4. ❗️ Closed issue [#2406](https://github.com/NamelessMC/Nameless/issues/2406) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
+5. 💪 Opened PR [#1599](https://github.com/parkervcp/eggs/pull/1599) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
 <!--END_SECTION:activity-->
