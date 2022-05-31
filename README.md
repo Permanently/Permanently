@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Permanently/SelectorServer/pull/1) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
-2. 🎉 Merged PR [#3](https://github.com/Permanently/SelectorServer/pull/3) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
-3. 🎉 Merged PR [#2](https://github.com/Permanently/SelectorServer/pull/2) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
-4. ❗️ Closed issue [#2406](https://github.com/NamelessMC/Nameless/issues/2406) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-5. 💪 Opened PR [#1599](https://github.com/parkervcp/eggs/pull/1599) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+1. 🗣 Commented on [#307](https://github.com/WeebDev/chibisafe/issues/307) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
+2. 🗣 Commented on [#330](https://github.com/WeebDev/chibisafe/issues/330) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
+3. 🎉 Merged PR [#1](https://github.com/Permanently/SelectorServer/pull/1) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
+4. 🎉 Merged PR [#3](https://github.com/Permanently/SelectorServer/pull/3) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
+5. 🎉 Merged PR [#2](https://github.com/Permanently/SelectorServer/pull/2) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
 <!--END_SECTION:activity-->
