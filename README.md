@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/xopez/cloudflare-sync-ips/pull/3) in [xopez/cloudflare-sync-ips](https://github.com/xopez/cloudflare-sync-ips)
-2. 🗣 Commented on [#307](https://github.com/WeebDev/chibisafe/issues/307) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
-3. 🗣 Commented on [#330](https://github.com/WeebDev/chibisafe/issues/330) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
-4. 🎉 Merged PR [#1](https://github.com/Permanently/SelectorServer/pull/1) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
-5. 🎉 Merged PR [#3](https://github.com/Permanently/SelectorServer/pull/3) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
+1. ❗️ Opened issue [#131](https://github.com/Neo23x0/Raccine/issues/131) in [Neo23x0/Raccine](https://github.com/Neo23x0/Raccine)
+2. 💪 Opened PR [#3](https://github.com/xopez/cloudflare-sync-ips/pull/3) in [xopez/cloudflare-sync-ips](https://github.com/xopez/cloudflare-sync-ips)
+3. 🗣 Commented on [#307](https://github.com/WeebDev/chibisafe/issues/307) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
+4. 🗣 Commented on [#330](https://github.com/WeebDev/chibisafe/issues/330) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
+5. 🎉 Merged PR [#1](https://github.com/Permanently/SelectorServer/pull/1) in [Permanently/SelectorServer](https://github.com/Permanently/SelectorServer)
 <!--END_SECTION:activity-->
