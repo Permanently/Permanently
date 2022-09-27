@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
-2. 🗣 Commented on [#1958](https://github.com/pterodactyl/panel/issues/1958) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-3. 🗣 Commented on [#153](https://github.com/tycrek/ass/issues/153) in [tycrek/ass](https://github.com/tycrek/ass)
-4. ❗️ Opened issue [#155](https://github.com/tycrek/ass/issues/155) in [tycrek/ass](https://github.com/tycrek/ass)
-5. 🗣 Commented on [#226](https://github.com/yattee/yattee/issues/226) in [yattee/yattee](https://github.com/yattee/yattee)
+1. ❗️ Opened issue [#3084](https://github.com/NamelessMC/Nameless/issues/3084) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
+2. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
+3. 🗣 Commented on [#1958](https://github.com/pterodactyl/panel/issues/1958) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+4. 🗣 Commented on [#153](https://github.com/tycrek/ass/issues/153) in [tycrek/ass](https://github.com/tycrek/ass)
+5. ❗️ Opened issue [#155](https://github.com/tycrek/ass/issues/155) in [tycrek/ass](https://github.com/tycrek/ass)
 <!--END_SECTION:activity-->
