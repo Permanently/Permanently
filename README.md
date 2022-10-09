@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
-2. ❗️ Opened issue [#3084](https://github.com/NamelessMC/Nameless/issues/3084) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-3. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
-4. 🗣 Commented on [#1958](https://github.com/pterodactyl/panel/issues/1958) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-5. 🗣 Commented on [#153](https://github.com/tycrek/ass/issues/153) in [tycrek/ass](https://github.com/tycrek/ass)
+1. 💪 Opened PR [#36](https://github.com/NightfallGT/Discord-QR-Scam/pull/36) in [NightfallGT/Discord-QR-Scam](https://github.com/NightfallGT/Discord-QR-Scam)
+2. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
+3. ❗️ Opened issue [#3084](https://github.com/NamelessMC/Nameless/issues/3084) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
+4. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
+5. 🗣 Commented on [#1958](https://github.com/pterodactyl/panel/issues/1958) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 <!--END_SECTION:activity-->
