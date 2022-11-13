@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#330](https://github.com/yattee/yattee/issues/330) in [yattee/yattee](https://github.com/yattee/yattee)
-2. 💪 Opened PR [#36](https://github.com/NightfallGT/Discord-QR-Scam/pull/36) in [NightfallGT/Discord-QR-Scam](https://github.com/NightfallGT/Discord-QR-Scam)
-3. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
-4. ❗️ Opened issue [#3084](https://github.com/NamelessMC/Nameless/issues/3084) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-5. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
+1. 💪 Opened PR [#1959](https://github.com/parkervcp/eggs/pull/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+2. ❗️ Opened issue [#330](https://github.com/yattee/yattee/issues/330) in [yattee/yattee](https://github.com/yattee/yattee)
+3. 💪 Opened PR [#36](https://github.com/NightfallGT/Discord-QR-Scam/pull/36) in [NightfallGT/Discord-QR-Scam](https://github.com/NightfallGT/Discord-QR-Scam)
+4. 🗣 Commented on [#26](https://github.com/hpfxd/PandaSpigot/issues/26) in [hpfxd/PandaSpigot](https://github.com/hpfxd/PandaSpigot)
+5. ❗️ Opened issue [#3084](https://github.com/NamelessMC/Nameless/issues/3084) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
 <!--END_SECTION:activity-->
