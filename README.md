@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#289](https://github.com/JulianPrieber/littlelink-custom/issues/289) in [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom)
-2. 🗣 Commented on [#1959](https://github.com/parkervcp/eggs/issues/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+1. 🗣 Commented on [#289](https://github.com/JulianPrieber/littlelink-custom/issues/289) in [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom)
+2. ❗️ Opened issue [#289](https://github.com/JulianPrieber/littlelink-custom/issues/289) in [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom)
 3. 🗣 Commented on [#1959](https://github.com/parkervcp/eggs/issues/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-4. 💪 Opened PR [#1959](https://github.com/parkervcp/eggs/pull/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-5. ❗️ Opened issue [#330](https://github.com/yattee/yattee/issues/330) in [yattee/yattee](https://github.com/yattee/yattee)
+4. 🗣 Commented on [#1959](https://github.com/parkervcp/eggs/issues/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+5. 💪 Opened PR [#1959](https://github.com/parkervcp/eggs/pull/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
 <!--END_SECTION:activity-->
