@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CapingTeam/Vanity-Sniper/issues/1) in [CapingTeam/Vanity-Sniper](https://github.com/CapingTeam/Vanity-Sniper)
-2. ❗️ Opened issue [#300](https://github.com/JulianPrieber/littlelink-custom/issues/300) in [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom)
-3. ❗️ Opened issue [#1](https://github.com/umutxyp/Discord-Vanity-URL-Sniper/issues/1) in [umutxyp/Discord-Vanity-URL-Sniper](https://github.com/umutxyp/Discord-Vanity-URL-Sniper)
-4. ❗️ Opened issue [#1](https://github.com/Nexons/vanityurlsniper/issues/1) in [Nexons/vanityurlsniper](https://github.com/Nexons/vanityurlsniper)
-5. ❗️ Opened issue [#1](https://github.com/CapingTeam/Vanity-Sniper/issues/1) in [CapingTeam/Vanity-Sniper](https://github.com/CapingTeam/Vanity-Sniper)
+1. 🗣 Commented on [#300](https://github.com/JulianPrieber/littlelink-custom/issues/300) in [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom)
+2. ❗️ Opened issue [#308](https://github.com/JulianPrieber/littlelink-custom/issues/308) in [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom)
+3. 🗣 Commented on [#1](https://github.com/CapingTeam/Vanity-Sniper/issues/1) in [CapingTeam/Vanity-Sniper](https://github.com/CapingTeam/Vanity-Sniper)
+4. ❗️ Opened issue [#300](https://github.com/JulianPrieber/littlelink-custom/issues/300) in [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom)
+5. ❗️ Opened issue [#1](https://github.com/umutxyp/Discord-Vanity-URL-Sniper/issues/1) in [umutxyp/Discord-Vanity-URL-Sniper](https://github.com/umutxyp/Discord-Vanity-URL-Sniper)
 <!--END_SECTION:activity-->
