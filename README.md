@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
-2. ❗️ Closed issue [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
-3. 🗣 Commented on [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
-4. ❗️ Opened issue [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
-5. ❗️ Closed issue [#300](https://github.com/JulianPrieber/littlelink-custom/issues/300) in [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom)
+1. 💪 Opened PR [#73](https://github.com/ericyoondotcom/MinecraftManhunt/pull/73) in [ericyoondotcom/MinecraftManhunt](https://github.com/ericyoondotcom/MinecraftManhunt)
+2. 🗣 Commented on [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
+3. ❗️ Closed issue [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
+4. 🗣 Commented on [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
+5. ❗️ Opened issue [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
 <!--END_SECTION:activity-->
