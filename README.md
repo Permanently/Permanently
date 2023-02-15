@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/ericyoondotcom/MinecraftManhunt/pull/73) in [ericyoondotcom/MinecraftManhunt](https://github.com/ericyoondotcom/MinecraftManhunt)
-2. 🗣 Commented on [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
-3. ❗️ Closed issue [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
-4. 🗣 Commented on [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
-5. ❗️ Opened issue [#159](https://github.com/CreativeMD/AmbientSounds/issues/159) in [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds)
+1. 💪 Opened PR [#1](https://github.com/Permanently/FlameCord/pull/1) in [Permanently/FlameCord](https://github.com/Permanently/FlameCord)
+2. ❌ Closed PR [#199](https://github.com/2lstudios-mc/FlameCord/pull/199) in [2lstudios-mc/FlameCord](https://github.com/2lstudios-mc/FlameCord)
+3. 🗣 Commented on [#199](https://github.com/2lstudios-mc/FlameCord/issues/199) in [2lstudios-mc/FlameCord](https://github.com/2lstudios-mc/FlameCord)
+4. 💪 Opened PR [#199](https://github.com/2lstudios-mc/FlameCord/pull/199) in [2lstudios-mc/FlameCord](https://github.com/2lstudios-mc/FlameCord)
+5. 💪 Opened PR [#73](https://github.com/ericyoondotcom/MinecraftManhunt/pull/73) in [ericyoondotcom/MinecraftManhunt](https://github.com/ericyoondotcom/MinecraftManhunt)
 <!--END_SECTION:activity-->
