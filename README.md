@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Permanently/FlameCord/pull/1) in [Permanently/FlameCord](https://github.com/Permanently/FlameCord)
-2. 💪 Opened PR [#1](https://github.com/Permanently/FlameCord/pull/1) in [Permanently/FlameCord](https://github.com/Permanently/FlameCord)
-3. ❌ Closed PR [#199](https://github.com/2lstudios-mc/FlameCord/pull/199) in [2lstudios-mc/FlameCord](https://github.com/2lstudios-mc/FlameCord)
-4. 🗣 Commented on [#199](https://github.com/2lstudios-mc/FlameCord/issues/199) in [2lstudios-mc/FlameCord](https://github.com/2lstudios-mc/FlameCord)
-5. 💪 Opened PR [#199](https://github.com/2lstudios-mc/FlameCord/pull/199) in [2lstudios-mc/FlameCord](https://github.com/2lstudios-mc/FlameCord)
+1. 🗣 Commented on [#1959](https://github.com/parkervcp/eggs/issues/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+2. 🎉 Merged PR [#1](https://github.com/Permanently/FlameCord/pull/1) in [Permanently/FlameCord](https://github.com/Permanently/FlameCord)
+3. 💪 Opened PR [#1](https://github.com/Permanently/FlameCord/pull/1) in [Permanently/FlameCord](https://github.com/Permanently/FlameCord)
+4. ❌ Closed PR [#199](https://github.com/2lstudios-mc/FlameCord/pull/199) in [2lstudios-mc/FlameCord](https://github.com/2lstudios-mc/FlameCord)
+5. 🗣 Commented on [#199](https://github.com/2lstudios-mc/FlameCord/issues/199) in [2lstudios-mc/FlameCord](https://github.com/2lstudios-mc/FlameCord)
 <!--END_SECTION:activity-->
