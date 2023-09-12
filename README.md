@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you'd be better contacti
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/JayXTQ/AtlasGuides/pull/2) in [JayXTQ/AtlasGuides](https://github.com/JayXTQ/AtlasGuides)
-2. 🗣 Commented on [#1959](https://github.com/parkervcp/eggs/issues/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-3. 🗣 Commented on [#1959](https://github.com/parkervcp/eggs/issues/1959) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-4. 🎉 Merged PR [#1](https://github.com/Permanently/FlameCord/pull/1) in [Permanently/FlameCord](https://github.com/Permanently/FlameCord)
-5. 💪 Opened PR [#1](https://github.com/Permanently/FlameCord/pull/1) in [Permanently/FlameCord](https://github.com/Permanently/FlameCord)
+1. 💪 Opened PR [#88](https://github.com/ClearURLs/Rules/pull/88) in [ClearURLs/Rules](https://github.com/ClearURLs/Rules)
+2. 💪 Opened PR [#242](https://github.com/undergroundwires/privacy.sexy/pull/242) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+3. 🗣 Commented on [#29](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x/issues/29#issuecomment-1685374279) in [Faithful-Resource-Pack/Faithful-Java-32x](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x)
+4. 🔒 Closed issue [#462](https://github.com/prettier/plugin-pug/issues/462) in [prettier/plugin-pug](https://github.com/prettier/plugin-pug)
+5. 🗣 Commented on [#462](https://github.com/prettier/plugin-pug/issues/462#issuecomment-1671629281) in [prettier/plugin-pug](https://github.com/prettier/plugin-pug)
 <!--END_SECTION:activity-->
