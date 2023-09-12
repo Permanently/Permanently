@@ -1,5 +1,5 @@
 ### hey!
-my name is billy ([he/they](https://pronoun.is/he)), however some of you may know me as permanently (or "perm"). i'm currently working in the cybersec field, and messing around with code and random projects on the side :)
+my name is billy ([he](https://en.pronouns.page/he/him)/[they](https://en.pronouns.page/they/them)), however some of you may know me as permanently (or "perm"). i'm currently working in the cybersec field, and messing around with code and random projects on the side :)
 
 ### what are your current aims right now?
 my main focus are my qualifications right now, for cybersec level 4! i'm hoping to also pick up some knowledge on splunk's query language.
