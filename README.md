@@ -5,7 +5,7 @@ my name is billy ([he/they](https://pronoun.is/he)), however some of you may kno
 my main focus are my qualifications right now, for cybersec level 4! i'm hoping to also pick up some knowledge on splunk's query language.
 
 ### where can i talk to you?
-if you're looking to contact me for any formal reasons, you'd be better contacting me via email! [hey@github.permanently.me](mailto:hey@github.permanently.me)
+if you're looking to contact me for any formal reasons, you can contact me via email! [hey@github.permanently.me](mailto:hey@github.permanently.me)
 
 ### recent activity
 <!--START_SECTION:activity-->
