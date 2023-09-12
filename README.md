@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#467](https://github.com/prettier/plugin-pug/pull/467) in [prettier/plugin-pug](https://github.com/prettier/plugin-pug)
-2. 💪 Opened PR [#88](https://github.com/ClearURLs/Rules/pull/88) in [ClearURLs/Rules](https://github.com/ClearURLs/Rules)
-3. 💪 Opened PR [#242](https://github.com/undergroundwires/privacy.sexy/pull/242) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-4. 🗣 Commented on [#29](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x/issues/29#issuecomment-1685374279) in [Faithful-Resource-Pack/Faithful-Java-32x](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x)
-5. 🔒 Closed issue [#462](https://github.com/prettier/plugin-pug/issues/462) in [prettier/plugin-pug](https://github.com/prettier/plugin-pug)
+1. 🗣 Commented on [#467](https://github.com/prettier/plugin-pug/pull/467#issuecomment-1715716253) in [prettier/plugin-pug](https://github.com/prettier/plugin-pug)
+2. 💪 Opened PR [#467](https://github.com/prettier/plugin-pug/pull/467) in [prettier/plugin-pug](https://github.com/prettier/plugin-pug)
+3. 💪 Opened PR [#88](https://github.com/ClearURLs/Rules/pull/88) in [ClearURLs/Rules](https://github.com/ClearURLs/Rules)
+4. 💪 Opened PR [#242](https://github.com/undergroundwires/privacy.sexy/pull/242) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+5. 🗣 Commented on [#29](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x/issues/29#issuecomment-1685374279) in [Faithful-Resource-Pack/Faithful-Java-32x](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x)
 <!--END_SECTION:activity-->
