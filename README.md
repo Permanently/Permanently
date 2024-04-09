@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/TunnlTo/desktop-app/issues/158#issuecomment-1974783066) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
-2. ❗ Opened issue [#81](https://github.com/phin05/discord-rich-presence-plex/issues/81) in [phin05/discord-rich-presence-plex](https://github.com/phin05/discord-rich-presence-plex)
-3. 🗣 Commented on [#135](https://github.com/Neo23x0/Raccine/issues/135#issuecomment-1948339755) in [Neo23x0/Raccine](https://github.com/Neo23x0/Raccine)
-4. ❗ Opened issue [#158](https://github.com/TunnlTo/desktop-app/issues/158) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
-5. 🗣 Commented on [#117](https://github.com/undergroundwires/privacy.sexy/pull/117#issuecomment-1927557909) in [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+1. 🗣 Commented on [#847](https://github.com/Atlas-OS/Atlas/issues/847#issuecomment-2045124612) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+2. 🗣 Commented on [#158](https://github.com/TunnlTo/desktop-app/issues/158#issuecomment-1974783066) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
+3. ❗ Opened issue [#81](https://github.com/phin05/discord-rich-presence-plex/issues/81) in [phin05/discord-rich-presence-plex](https://github.com/phin05/discord-rich-presence-plex)
+4. 🗣 Commented on [#135](https://github.com/Neo23x0/Raccine/issues/135#issuecomment-1948339755) in [Neo23x0/Raccine](https://github.com/Neo23x0/Raccine)
+5. ❗ Opened issue [#158](https://github.com/TunnlTo/desktop-app/issues/158) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
 <!--END_SECTION:activity-->
