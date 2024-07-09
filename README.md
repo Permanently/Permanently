@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#847](https://github.com/Atlas-OS/Atlas/issues/847#issuecomment-2045124612) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-2. 🗣 Commented on [#158](https://github.com/TunnlTo/desktop-app/issues/158#issuecomment-1974783066) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
-3. ❗ Opened issue [#81](https://github.com/phin05/discord-rich-presence-plex/issues/81) in [phin05/discord-rich-presence-plex](https://github.com/phin05/discord-rich-presence-plex)
-4. 🗣 Commented on [#135](https://github.com/Neo23x0/Raccine/issues/135#issuecomment-1948339755) in [Neo23x0/Raccine](https://github.com/Neo23x0/Raccine)
-5. ❗ Opened issue [#158](https://github.com/TunnlTo/desktop-app/issues/158) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
+1. 🗣 Commented on [#30277](https://github.com/mastodon/mastodon/issues/30277#issuecomment-2205769971) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+2. 🗣 Commented on [#684](https://github.com/Vencord/Vesktop/issues/684#issuecomment-2181634318) in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
+3. 🔒 Closed issue [#684](https://github.com/Vencord/Vesktop/issues/684) in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
+4. ❗ Opened issue [#684](https://github.com/Vencord/Vesktop/issues/684) in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
+5. 💪 Opened PR [#3](https://github.com/moltenbit/How-To-Secure-A-Linux-Server-With-Ansible/pull/3) in [moltenbit/How-To-Secure-A-Linux-Server-With-Ansible](https://github.com/moltenbit/How-To-Secure-A-Linux-Server-With-Ansible)
 <!--END_SECTION:activity-->
