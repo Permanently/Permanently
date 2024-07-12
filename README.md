@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30277](https://github.com/mastodon/mastodon/issues/30277#issuecomment-2205769971) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-2. 🗣 Commented on [#684](https://github.com/Vencord/Vesktop/issues/684#issuecomment-2181634318) in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
-3. 🔒 Closed issue [#684](https://github.com/Vencord/Vesktop/issues/684) in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
-4. ❗ Opened issue [#684](https://github.com/Vencord/Vesktop/issues/684) in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
-5. 💪 Opened PR [#3](https://github.com/moltenbit/How-To-Secure-A-Linux-Server-With-Ansible/pull/3) in [moltenbit/How-To-Secure-A-Linux-Server-With-Ansible](https://github.com/moltenbit/How-To-Secure-A-Linux-Server-With-Ansible)
+1. 💪 Opened PR [#4](https://github.com/tycrek/cheek/pull/4) in [tycrek/cheek](https://github.com/tycrek/cheek)
+2. 💪 Opened PR [#3](https://github.com/tycrek/cheek/pull/3) in [tycrek/cheek](https://github.com/tycrek/cheek)
+3. 🗣 Commented on [#30277](https://github.com/mastodon/mastodon/issues/30277#issuecomment-2205769971) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+4. 🗣 Commented on [#684](https://github.com/Vencord/Vesktop/issues/684#issuecomment-2181634318) in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
+5. 🔒 Closed issue [#684](https://github.com/Vencord/Vesktop/issues/684) in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
 <!--END_SECTION:activity-->
