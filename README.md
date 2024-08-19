@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4419](https://github.com/collinbarrett/FilterLists/issues/4419) in [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists)
-2. 🗣 Commented on [#4406](https://github.com/collinbarrett/FilterLists/issues/4406#issuecomment-2229343745) in [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists)
-3. 💪 Opened PR [#4](https://github.com/tycrek/cheek/pull/4) in [tycrek/cheek](https://github.com/tycrek/cheek)
-4. 💪 Opened PR [#3](https://github.com/tycrek/cheek/pull/3) in [tycrek/cheek](https://github.com/tycrek/cheek)
-5. 🗣 Commented on [#30277](https://github.com/mastodon/mastodon/issues/30277#issuecomment-2205769971) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+1. 🗣 Commented on [#2558](https://github.com/nextcloud/photos/issues/2558#issuecomment-2296230804) in [nextcloud/photos](https://github.com/nextcloud/photos)
+2. ❗ Opened issue [#4419](https://github.com/collinbarrett/FilterLists/issues/4419) in [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists)
+3. 🗣 Commented on [#4406](https://github.com/collinbarrett/FilterLists/issues/4406#issuecomment-2229343745) in [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists)
+4. 💪 Opened PR [#4](https://github.com/tycrek/cheek/pull/4) in [tycrek/cheek](https://github.com/tycrek/cheek)
+5. 💪 Opened PR [#3](https://github.com/tycrek/cheek/pull/3) in [tycrek/cheek](https://github.com/tycrek/cheek)
 <!--END_SECTION:activity-->
