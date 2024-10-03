@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/intiface/intiface-central/issues/154#issuecomment-2391835430) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
-2. ❗ Opened issue [#154](https://github.com/intiface/intiface-central/issues/154) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
-3. 🗣 Commented on [#4271](https://github.com/nextcloud/desktop/issues/4271#issuecomment-2347405563) in [nextcloud/desktop](https://github.com/nextcloud/desktop)
-4. 🗣 Commented on [#2203](https://github.com/Prowlarr/Prowlarr/issues/2203#issuecomment-2307400188) in [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr)
-5. 🗣 Commented on [#2203](https://github.com/Prowlarr/Prowlarr/issues/2203#issuecomment-2307329119) in [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr)
+1. 🗣 Commented on [#154](https://github.com/intiface/intiface-central/issues/154#issuecomment-2392376969) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
+2. 🔒 Closed issue [#154](https://github.com/intiface/intiface-central/issues/154) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
+3. 🗣 Commented on [#154](https://github.com/intiface/intiface-central/issues/154#issuecomment-2391835430) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
+4. ❗ Opened issue [#154](https://github.com/intiface/intiface-central/issues/154) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
+5. 🗣 Commented on [#4271](https://github.com/nextcloud/desktop/issues/4271#issuecomment-2347405563) in [nextcloud/desktop](https://github.com/nextcloud/desktop)
 <!--END_SECTION:activity-->
