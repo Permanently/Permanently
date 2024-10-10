@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/ignaciocastro/a-dove-is-dumb/issues/23) in [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb)
-2. 🗣 Commented on [#154](https://github.com/intiface/intiface-central/issues/154#issuecomment-2392376969) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
-3. 🔒 Closed issue [#154](https://github.com/intiface/intiface-central/issues/154) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
-4. 🗣 Commented on [#154](https://github.com/intiface/intiface-central/issues/154#issuecomment-2391835430) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
-5. ❗ Opened issue [#154](https://github.com/intiface/intiface-central/issues/154) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
+1. 🗣 Commented on [#23](https://github.com/ignaciocastro/a-dove-is-dumb/issues/23#issuecomment-2402779246) in [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb)
+2. ❗ Opened issue [#23](https://github.com/ignaciocastro/a-dove-is-dumb/issues/23) in [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb)
+3. 🗣 Commented on [#154](https://github.com/intiface/intiface-central/issues/154#issuecomment-2392376969) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
+4. 🔒 Closed issue [#154](https://github.com/intiface/intiface-central/issues/154) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
+5. 🗣 Commented on [#154](https://github.com/intiface/intiface-central/issues/154#issuecomment-2391835430) in [intiface/intiface-central](https://github.com/intiface/intiface-central)
 <!--END_SECTION:activity-->
