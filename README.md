@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/fehbari/sunshine-scripts/pull/7) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
-2. 🗣 Commented on [#6](https://github.com/fehbari/sunshine-scripts/issues/6#issuecomment-2453102092) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
-3. ❗ Opened issue [#6](https://github.com/fehbari/sunshine-scripts/issues/6) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
-4. ❗ Opened issue [#132](https://github.com/Eugeny/tabby-web/issues/132) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
-5. 🗣 Commented on [#132](https://github.com/Wikidepia/InstaFix/issues/132#issuecomment-2440104405) in [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix)
+1. ❗ Opened issue [#26](https://github.com/JMTK/SunshineGameFinder/issues/26) in [JMTK/SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder)
+2. 💪 Opened PR [#7](https://github.com/fehbari/sunshine-scripts/pull/7) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+3. 🗣 Commented on [#6](https://github.com/fehbari/sunshine-scripts/issues/6#issuecomment-2453102092) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+4. ❗ Opened issue [#6](https://github.com/fehbari/sunshine-scripts/issues/6) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+5. ❗ Opened issue [#132](https://github.com/Eugeny/tabby-web/issues/132) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
 <!--END_SECTION:activity-->
