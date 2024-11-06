@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/fehbari/sunshine-scripts/pull/9) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
-2. 🗣 Commented on [#6](https://github.com/fehbari/sunshine-scripts/issues/6#issuecomment-2456645842) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
-3. 🗣 Commented on [#6](https://github.com/fehbari/sunshine-scripts/issues/6#issuecomment-2456457745) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
-4. ❗ Opened issue [#26](https://github.com/JMTK/SunshineGameFinder/issues/26) in [JMTK/SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder)
-5. 💪 Opened PR [#7](https://github.com/fehbari/sunshine-scripts/pull/7) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+1. ❗ Opened issue [#10](https://github.com/fehbari/sunshine-scripts/issues/10) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+2. 💪 Opened PR [#9](https://github.com/fehbari/sunshine-scripts/pull/9) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+3. 🗣 Commented on [#6](https://github.com/fehbari/sunshine-scripts/issues/6#issuecomment-2456645842) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+4. 🗣 Commented on [#6](https://github.com/fehbari/sunshine-scripts/issues/6#issuecomment-2456457745) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+5. ❗ Opened issue [#26](https://github.com/JMTK/SunshineGameFinder/issues/26) in [JMTK/SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder)
 <!--END_SECTION:activity-->
