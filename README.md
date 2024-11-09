@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6#issuecomment-2463274732) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
-2. 🔒 Closed issue [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
-3. ❗ Opened issue [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
-4. 🗣 Commented on [#10](https://github.com/fehbari/sunshine-scripts/issues/10#issuecomment-2458332787) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
-5. 🗣 Commented on [#26](https://github.com/yoshiask/FluentStore/issues/26#issuecomment-2458284918) in [yoshiask/FluentStore](https://github.com/yoshiask/FluentStore)
+1. 💪 Opened PR [#2287](https://github.com/requestly/requestly/pull/2287) in [requestly/requestly](https://github.com/requestly/requestly)
+2. 🗣 Commented on [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6#issuecomment-2463274732) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
+3. 🔒 Closed issue [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
+4. ❗ Opened issue [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
+5. 🗣 Commented on [#10](https://github.com/fehbari/sunshine-scripts/issues/10#issuecomment-2458332787) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
 <!--END_SECTION:activity-->
