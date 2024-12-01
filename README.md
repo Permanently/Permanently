@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#438](https://github.com/Threadfin/Threadfin/issues/438#issuecomment-2494123793) in [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin)
-2. 💪 Opened PR [#2287](https://github.com/requestly/requestly/pull/2287) in [requestly/requestly](https://github.com/requestly/requestly)
-3. 🗣 Commented on [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6#issuecomment-2463274732) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
-4. 🔒 Closed issue [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
-5. ❗ Opened issue [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
+1. ❗ Opened issue [#4](https://github.com/Aebel-Shajan/subway_surfers_screen_reader/issues/4) in [Aebel-Shajan/subway_surfers_screen_reader](https://github.com/Aebel-Shajan/subway_surfers_screen_reader)
+2. 🗣 Commented on [#438](https://github.com/Threadfin/Threadfin/issues/438#issuecomment-2494123793) in [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin)
+3. 💪 Opened PR [#2287](https://github.com/requestly/requestly/pull/2287) in [requestly/requestly](https://github.com/requestly/requestly)
+4. 🗣 Commented on [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6#issuecomment-2463274732) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
+5. 🔒 Closed issue [#6](https://github.com/dtankdempse/m3u-playlist-proxy/issues/6) in [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy)
 <!--END_SECTION:activity-->
