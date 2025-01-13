@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#432](https://github.com/blacktwin/JBOPS/issues/432#issuecomment-2586706258) in [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS)
-2. ❗ Opened issue [#71](https://github.com/jfroment/seedbox/issues/71) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
-3. ❗ Opened issue [#30](https://github.com/gerlofvanek/basicswap-installation-GUI/issues/30) in [gerlofvanek/basicswap-installation-GUI](https://github.com/gerlofvanek/basicswap-installation-GUI)
-4. ❗ Opened issue [#4](https://github.com/Aebel-Shajan/subway_surfers_screen_reader/issues/4) in [Aebel-Shajan/subway_surfers_screen_reader](https://github.com/Aebel-Shajan/subway_surfers_screen_reader)
-5. 🗣 Commented on [#438](https://github.com/Threadfin/Threadfin/issues/438#issuecomment-2494123793) in [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin)
+1. 🗣 Commented on [#507](https://github.com/wizarrrr/wizarr/issues/507#issuecomment-2587104055) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
+2. 🗣 Commented on [#432](https://github.com/blacktwin/JBOPS/issues/432#issuecomment-2586706258) in [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS)
+3. ❗ Opened issue [#71](https://github.com/jfroment/seedbox/issues/71) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
+4. ❗ Opened issue [#30](https://github.com/gerlofvanek/basicswap-installation-GUI/issues/30) in [gerlofvanek/basicswap-installation-GUI](https://github.com/gerlofvanek/basicswap-installation-GUI)
+5. ❗ Opened issue [#4](https://github.com/Aebel-Shajan/subway_surfers_screen_reader/issues/4) in [Aebel-Shajan/subway_surfers_screen_reader](https://github.com/Aebel-Shajan/subway_surfers_screen_reader)
 <!--END_SECTION:activity-->
