@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/jfroment/seedbox/issues/71#issuecomment-2587397150) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
-2. 🗣 Commented on [#507](https://github.com/wizarrrr/wizarr/issues/507#issuecomment-2587104055) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
-3. 🗣 Commented on [#432](https://github.com/blacktwin/JBOPS/issues/432#issuecomment-2586706258) in [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS)
-4. ❗ Opened issue [#71](https://github.com/jfroment/seedbox/issues/71) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
-5. ❗ Opened issue [#30](https://github.com/gerlofvanek/basicswap-installation-GUI/issues/30) in [gerlofvanek/basicswap-installation-GUI](https://github.com/gerlofvanek/basicswap-installation-GUI)
+1. 🗣 Commented on [#71](https://github.com/jfroment/seedbox/issues/71#issuecomment-2589889478) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
+2. 🗣 Commented on [#71](https://github.com/jfroment/seedbox/issues/71#issuecomment-2587397150) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
+3. 🗣 Commented on [#507](https://github.com/wizarrrr/wizarr/issues/507#issuecomment-2587104055) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
+4. 🗣 Commented on [#432](https://github.com/blacktwin/JBOPS/issues/432#issuecomment-2586706258) in [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS)
+5. ❗ Opened issue [#71](https://github.com/jfroment/seedbox/issues/71) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
 <!--END_SECTION:activity-->
