@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/vogler/free-games-claimer/issues/183#issuecomment-2652010095) in [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer)
-2. 🗣 Commented on [#4668](https://github.com/GrapheneOS/os-issue-tracker/issues/4668#issuecomment-2612082289) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
-3. 🗣 Commented on [#432](https://github.com/blacktwin/JBOPS/issues/432#issuecomment-2601008267) in [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS)
+1. 🗣 Commented on [#257](https://github.com/TunnlTo/desktop-app/issues/257#issuecomment-2705268769) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
+2. 🗣 Commented on [#257](https://github.com/TunnlTo/desktop-app/issues/257#issuecomment-2705182378) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
+3. 🗣 Commented on [#183](https://github.com/vogler/free-games-claimer/issues/183#issuecomment-2652010095) in [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer)
 4. 🗣 Commented on [#70](https://github.com/jfroment/seedbox/issues/70#issuecomment-2598642290) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
 5. 🗣 Commented on [#56](https://github.com/jfroment/seedbox/issues/56#issuecomment-2598633959) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
 <!--END_SECTION:activity-->
