@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/cmathews393/spotify-to-plex/issues/56) in [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex)
-2. 🗣 Commented on [#140994](https://github.com/home-assistant/core/issues/140994#issuecomment-2740645007) in [home-assistant/core](https://github.com/home-assistant/core)
-3. ❗ Opened issue [#140994](https://github.com/home-assistant/core/issues/140994) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#257](https://github.com/TunnlTo/desktop-app/issues/257#issuecomment-2705268769) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
-5. 🗣 Commented on [#257](https://github.com/TunnlTo/desktop-app/issues/257#issuecomment-2705182378) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
+1. 🗣 Commented on [#410](https://github.com/bakito/adguardhome-sync/issues/410#issuecomment-2779006664) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+2. ❗ Opened issue [#56](https://github.com/cmathews393/spotify-to-plex/issues/56) in [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex)
+3. 🗣 Commented on [#140994](https://github.com/home-assistant/core/issues/140994#issuecomment-2740645007) in [home-assistant/core](https://github.com/home-assistant/core)
+4. ❗ Opened issue [#140994](https://github.com/home-assistant/core/issues/140994) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#257](https://github.com/TunnlTo/desktop-app/issues/257#issuecomment-2705268769) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
 <!--END_SECTION:activity-->
