@@ -9,9 +9,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/revenge-mod/revenge-bundle/issues/82#issuecomment-2862545770) in [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle)
-2. ❗ Opened issue [#82](https://github.com/revenge-mod/revenge-bundle/issues/82) in [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle)
-3. ❗ Opened issue [#143679](https://github.com/home-assistant/core/issues/143679) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#89](https://github.com/refact0r/system24/issues/89#issuecomment-2827105880) in [refact0r/system24](https://github.com/refact0r/system24)
-5. 🗣 Commented on [#257](https://github.com/TunnlTo/desktop-app/issues/257#issuecomment-2705268769) in [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)
+1. ❗ Opened issue [#25426](https://github.com/home-assistant/frontend/issues/25426) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 🗣 Commented on [#82](https://github.com/revenge-mod/revenge-bundle/issues/82#issuecomment-2862545770) in [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle)
+3. ❗ Opened issue [#82](https://github.com/revenge-mod/revenge-bundle/issues/82) in [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle)
+4. ❗ Opened issue [#143679](https://github.com/home-assistant/core/issues/143679) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#89](https://github.com/refact0r/system24/issues/89#issuecomment-2827105880) in [refact0r/system24](https://github.com/refact0r/system24)
 <!--END_SECTION:activity-->
