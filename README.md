@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5495](https://github.com/GrapheneOS/os-issue-tracker/issues/5495#issuecomment-2911858691) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
-2. 🗣 Commented on [#513](https://github.com/wizarrrr/wizarr/pull/513#issuecomment-2910622904) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
-3. 🗣 Commented on [#425](https://github.com/fallenbagel/jellyseerr/issues/425#issuecomment-2910619442) in [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr)
-4. 🗣 Commented on [#18](https://github.com/fehbari/sunshine-scripts/pull/18#issuecomment-2889020148) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
-5. ❌ Closed PR [#18](https://github.com/fehbari/sunshine-scripts/pull/18) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
+1. 🗣 Commented on [#56](https://github.com/cmathews393/spotify-to-plex/issues/56#issuecomment-2923549754) in [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex)
+2. 🗣 Commented on [#5495](https://github.com/GrapheneOS/os-issue-tracker/issues/5495#issuecomment-2911858691) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
+3. 🗣 Commented on [#513](https://github.com/wizarrrr/wizarr/pull/513#issuecomment-2910622904) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
+4. 🗣 Commented on [#425](https://github.com/fallenbagel/jellyseerr/issues/425#issuecomment-2910619442) in [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr)
+5. 🗣 Commented on [#18](https://github.com/fehbari/sunshine-scripts/pull/18#issuecomment-2889020148) in [fehbari/sunshine-scripts](https://github.com/fehbari/sunshine-scripts)
 <!--END_SECTION:activity-->
