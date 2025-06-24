@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/jfroment/seedbox/pull/78#issuecomment-2924899858) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
-2. 🗣 Commented on [#56](https://github.com/cmathews393/spotify-to-plex/issues/56#issuecomment-2923549754) in [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex)
-3. 🗣 Commented on [#5495](https://github.com/GrapheneOS/os-issue-tracker/issues/5495#issuecomment-2911858691) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
-4. 🗣 Commented on [#513](https://github.com/wizarrrr/wizarr/pull/513#issuecomment-2910622904) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
-5. 🗣 Commented on [#425](https://github.com/fallenbagel/jellyseerr/issues/425#issuecomment-2910619442) in [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr)
+1. 🗣 Commented on [#139762](https://github.com/home-assistant/core/issues/139762#issuecomment-2999494994) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#78](https://github.com/jfroment/seedbox/pull/78#issuecomment-2924899858) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
+3. 🗣 Commented on [#56](https://github.com/cmathews393/spotify-to-plex/issues/56#issuecomment-2923549754) in [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex)
+4. 🗣 Commented on [#5495](https://github.com/GrapheneOS/os-issue-tracker/issues/5495#issuecomment-2911858691) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
+5. 🗣 Commented on [#513](https://github.com/wizarrrr/wizarr/pull/513#issuecomment-2910622904) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
 <!--END_SECTION:activity-->
