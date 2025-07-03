@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#578](https://github.com/shuymn/wildebeest/pull/578) in [shuymn/wildebeest](https://github.com/shuymn/wildebeest)
-2. ❗ Opened issue [#577](https://github.com/shuymn/wildebeest/issues/577) in [shuymn/wildebeest](https://github.com/shuymn/wildebeest)
-3. 🗣 Commented on [#139762](https://github.com/home-assistant/core/issues/139762#issuecomment-2999494994) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#78](https://github.com/jfroment/seedbox/pull/78#issuecomment-2924899858) in [jfroment/seedbox](https://github.com/jfroment/seedbox)
+1. 🗣 Commented on [#4239](https://github.com/GrapheneOS/os-issue-tracker/issues/4239#issuecomment-3033401881) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
+2. 💪 Opened PR [#578](https://github.com/shuymn/wildebeest/pull/578) in [shuymn/wildebeest](https://github.com/shuymn/wildebeest)
+3. ❗ Opened issue [#577](https://github.com/shuymn/wildebeest/issues/577) in [shuymn/wildebeest](https://github.com/shuymn/wildebeest)
+4. 🗣 Commented on [#139762](https://github.com/home-assistant/core/issues/139762#issuecomment-2999494994) in [home-assistant/core](https://github.com/home-assistant/core)
 5. 🗣 Commented on [#56](https://github.com/cmathews393/spotify-to-plex/issues/56#issuecomment-2923549754) in [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex)
 <!--END_SECTION:activity-->
