@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#635](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/635#issuecomment-3094734642) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-2. 🗣 Commented on [#635](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/635#issuecomment-3045955512) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-3. 🗣 Commented on [#4239](https://github.com/GrapheneOS/os-issue-tracker/issues/4239#issuecomment-3033401881) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
+1. 🗣 Commented on [#635](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/635#issuecomment-3159518574) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+2. 🗣 Commented on [#56](https://github.com/cmathews393/spotify-to-plex/issues/56#issuecomment-3158345135) in [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex)
+3. 🗣 Commented on [#635](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/635#issuecomment-3094734642) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
 4. 💪 Opened PR [#578](https://github.com/shuymn/wildebeest/pull/578) in [shuymn/wildebeest](https://github.com/shuymn/wildebeest)
 5. ❗ Opened issue [#577](https://github.com/shuymn/wildebeest/issues/577) in [shuymn/wildebeest](https://github.com/shuymn/wildebeest)
 <!--END_SECTION:activity-->
