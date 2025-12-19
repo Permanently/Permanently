@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/willjasen/tailmox/issues/25#issuecomment-3592567599) in [willjasen/tailmox](https://github.com/willjasen/tailmox)
-2. ❗ Opened issue [#25](https://github.com/willjasen/tailmox/issues/25) in [willjasen/tailmox](https://github.com/willjasen/tailmox)
-3. 🗣 Commented on [#119](https://github.com/watzon/aur-packages/pull/119#issuecomment-3549168197) in [watzon/aur-packages](https://github.com/watzon/aur-packages)
-4. 🗣 Commented on [#2287](https://github.com/requestly/requestly/pull/2287#issuecomment-3539126761) in [requestly/requestly](https://github.com/requestly/requestly)
-5. ❌ Closed PR [#2287](undefined) in [requestly/requestly](https://github.com/requestly/requestly)
+1. 🗣 Commented on [#4167](https://github.com/make-all/tuya-local/issues/4167#issuecomment-3672897184) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
+2.  Labeled issue [#4167](https://github.com/make-all/tuya-local/issues/4167) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
+3. ❗ Opened issue [#4167](https://github.com/make-all/tuya-local/issues/4167) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
+4. 🗣 Commented on [#25](https://github.com/willjasen/tailmox/issues/25#issuecomment-3592567599) in [willjasen/tailmox](https://github.com/willjasen/tailmox)
+5. ❗ Opened issue [#25](https://github.com/willjasen/tailmox/issues/25) in [willjasen/tailmox](https://github.com/willjasen/tailmox)
 <!--END_SECTION:activity-->
