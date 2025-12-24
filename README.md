@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [ComputerByte/sonarr4k](https://github.com/ComputerByte/sonarr4k)
-2.  Labeled issue [#10252](https://github.com/community-scripts/ProxmoxVE/issues/10252) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-3. ❗ Opened issue [#10252](https://github.com/community-scripts/ProxmoxVE/issues/10252) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-4. 🗣 Commented on [#4167](https://github.com/make-all/tuya-local/issues/4167#issuecomment-3672897184) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
-5.  Labeled issue [#4167](https://github.com/make-all/tuya-local/issues/4167) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
+1. ❌ Merged PR [#4](undefined) in [ComputerByte/sonarr4k](https://github.com/ComputerByte/sonarr4k)
+2. 💪 Opened PR [#4](undefined) in [ComputerByte/sonarr4k](https://github.com/ComputerByte/sonarr4k)
+3.  Labeled issue [#10252](https://github.com/community-scripts/ProxmoxVE/issues/10252) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+4. ❗ Opened issue [#10252](https://github.com/community-scripts/ProxmoxVE/issues/10252) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+5. 🗣 Commented on [#4167](https://github.com/make-all/tuya-local/issues/4167#issuecomment-3672897184) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
 <!--END_SECTION:activity-->
