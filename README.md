@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/SilentVoid13/SyncDisBoi/issues/28) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
-2. ❗ Opened issue [#27](https://github.com/SilentVoid13/SyncDisBoi/issues/27) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
-3. 💪 Opened PR [#4229](https://github.com/make-all/tuya-local/pull/4229) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
-4. 🎉 Merged PR [#4](https://github.com/ComputerByte/sonarr4k/pull/4) in [ComputerByte/sonarr4k](https://github.com/ComputerByte/sonarr4k)
-5. 💪 Opened PR [#4](https://github.com/ComputerByte/sonarr4k/pull/4) in [ComputerByte/sonarr4k](https://github.com/ComputerByte/sonarr4k)
+1. ❗ Opened issue [#29](https://github.com/SilentVoid13/SyncDisBoi/issues/29) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
+2. 🗣 Commented on [#28](https://github.com/SilentVoid13/SyncDisBoi/issues/28#issuecomment-3764516719) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
+3. ❗ Opened issue [#28](https://github.com/SilentVoid13/SyncDisBoi/issues/28) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
+4. ❗ Opened issue [#27](https://github.com/SilentVoid13/SyncDisBoi/issues/27) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
+5. 💪 Opened PR [#4229](https://github.com/make-all/tuya-local/pull/4229) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
 <!--END_SECTION:activity-->
