@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4361](https://github.com/make-all/tuya-local/pull/4361) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
-2. ❗ Opened issue [#29](https://github.com/SilentVoid13/SyncDisBoi/issues/29) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
-3. 🗣 Commented on [#28](https://github.com/SilentVoid13/SyncDisBoi/issues/28#issuecomment-3764516719) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
-4. ❗ Opened issue [#28](https://github.com/SilentVoid13/SyncDisBoi/issues/28) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
-5. ❗ Opened issue [#27](https://github.com/SilentVoid13/SyncDisBoi/issues/27) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
+1. 🎉 Merged PR [#4361](https://github.com/make-all/tuya-local/pull/4361) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
+2. 🗣 Commented on [#695](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/695#issuecomment-3777736770) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+3. 💪 Opened PR [#4361](https://github.com/make-all/tuya-local/pull/4361) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
+4. ❗ Opened issue [#29](https://github.com/SilentVoid13/SyncDisBoi/issues/29) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
+5. 🗣 Commented on [#28](https://github.com/SilentVoid13/SyncDisBoi/issues/28#issuecomment-3764516719) in [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi)
 <!--END_SECTION:activity-->
