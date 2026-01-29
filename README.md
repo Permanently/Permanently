@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-3792340248) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-2. ℹ️ Labeled issue [#868](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/868) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-3. ❗ Opened issue [#868](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/868) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-4. 🎉 Merged PR [#4361](https://github.com/make-all/tuya-local/pull/4361) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
-5. 🗣 Commented on [#695](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/695#issuecomment-3777736770) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+1. ❗ Opened issue [#1161](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/issues/1161) in [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control)
+2. 🗣 Commented on [#1104](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/issues/1104#issuecomment-3817607661) in [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control)
+3. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-3792340248) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+4. ℹ️ Labeled issue [#868](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/868) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+5. ❗ Opened issue [#868](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/868) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
 <!--END_SECTION:activity-->
