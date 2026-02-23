@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#635](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/635#issuecomment-3883960546) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-2. 🗣 Commented on [#635](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/635#issuecomment-3876722164) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-3. 💪 Opened PR [#179](https://github.com/ronilaukkarinen/mastodon-bird-ui/pull/179) in [ronilaukkarinen/mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui)
-4. ❗ Opened issue [#1161](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/issues/1161) in [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control)
-5. 🗣 Commented on [#1104](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/issues/1104#issuecomment-3817607661) in [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control)
+1. ℹ️ Labeled issue [#9220](https://github.com/hagezi/dns-blocklists/issues/9220) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+2. ℹ️ Assigned issue [#9220](https://github.com/hagezi/dns-blocklists/issues/9220) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+3. ❗ Opened issue [#3513](https://github.com/badmojr/1Hosts/issues/3513) in [badmojr/1Hosts](https://github.com/badmojr/1Hosts)
+4. ❗ Opened issue [#9220](https://github.com/hagezi/dns-blocklists/issues/9220) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+5. 🗣 Commented on [#635](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/635#issuecomment-3883960546) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
 <!--END_SECTION:activity-->
