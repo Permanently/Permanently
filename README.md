@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Permanently/blog/pull/1#issuecomment-4012181841) in [Permanently/blog](https://github.com/Permanently/blog)
-2. ❌ Closed PR [#1](https://github.com/Permanently/blog/pull/1) in [Permanently/blog](https://github.com/Permanently/blog)
-3. ℹ️ Labeled issue [#9220](https://github.com/hagezi/dns-blocklists/issues/9220) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
-4. ℹ️ Assigned issue [#9220](https://github.com/hagezi/dns-blocklists/issues/9220) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
-5. ❗ Opened issue [#3513](https://github.com/badmojr/1Hosts/issues/3513) in [badmojr/1Hosts](https://github.com/badmojr/1Hosts)
+1. ℹ️ Labeled issue [#7154](https://github.com/mailcow/mailcow-dockerized/issues/7154) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+2. ❗ Opened issue [#7154](https://github.com/mailcow/mailcow-dockerized/issues/7154) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+3. 🗣 Commented on [#3734](https://github.com/mailcow/mailcow-dockerized/issues/3734#issuecomment-4099848996) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+4. 🗣 Commented on [#1](https://github.com/Permanently/blog/pull/1#issuecomment-4012181841) in [Permanently/blog](https://github.com/Permanently/blog)
+5. ❌ Closed PR [#1](https://github.com/Permanently/blog/pull/1) in [Permanently/blog](https://github.com/Permanently/blog)
 <!--END_SECTION:activity-->
