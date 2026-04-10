@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/nockscitney/SeratoNowPlaying/issues/17) in [nockscitney/SeratoNowPlaying](https://github.com/nockscitney/SeratoNowPlaying)
-2. 🎉 Merged PR [#179](https://github.com/ronilaukkarinen/mastodon-bird-ui/pull/179) in [ronilaukkarinen/mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui)
-3. ℹ️ Labeled issue [#7154](https://github.com/mailcow/mailcow-dockerized/issues/7154) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
-4. ❗ Opened issue [#7154](https://github.com/mailcow/mailcow-dockerized/issues/7154) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
-5. 🗣 Commented on [#3734](https://github.com/mailcow/mailcow-dockerized/issues/3734#issuecomment-4099848996) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+1. 🗣 Commented on [#3728](https://github.com/ungoogled-software/ungoogled-chromium/issues/3728#issuecomment-4224633453) in [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+2. ❗ Opened issue [#17](https://github.com/nockscitney/SeratoNowPlaying/issues/17) in [nockscitney/SeratoNowPlaying](https://github.com/nockscitney/SeratoNowPlaying)
+3. 🎉 Merged PR [#179](https://github.com/ronilaukkarinen/mastodon-bird-ui/pull/179) in [ronilaukkarinen/mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui)
+4. ℹ️ Labeled issue [#7154](https://github.com/mailcow/mailcow-dockerized/issues/7154) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+5. ❗ Opened issue [#7154](https://github.com/mailcow/mailcow-dockerized/issues/7154) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 <!--END_SECTION:activity-->
