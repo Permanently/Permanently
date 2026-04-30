@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3728](https://github.com/ungoogled-software/ungoogled-chromium/issues/3728#issuecomment-4224633453) in [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
-2. ❗ Opened issue [#17](https://github.com/nockscitney/SeratoNowPlaying/issues/17) in [nockscitney/SeratoNowPlaying](https://github.com/nockscitney/SeratoNowPlaying)
-3. 🎉 Merged PR [#179](https://github.com/rollecode/mastodon-bird-ui/pull/179) in [rollecode/mastodon-bird-ui](https://github.com/rollecode/mastodon-bird-ui)
-4. ℹ️ Labeled issue [#7154](https://github.com/mailcow/mailcow-dockerized/issues/7154) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+1. 🗣 Commented on [#53](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/53#issuecomment-4351191065) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+2. 🗣 Commented on [#3728](https://github.com/ungoogled-software/ungoogled-chromium/issues/3728#issuecomment-4224633453) in [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+3. ❗ Opened issue [#17](https://github.com/nockscitney/SeratoNowPlaying/issues/17) in [nockscitney/SeratoNowPlaying](https://github.com/nockscitney/SeratoNowPlaying)
+4. 🎉 Merged PR [#179](https://github.com/rollecode/mastodon-bird-ui/pull/179) in [rollecode/mastodon-bird-ui](https://github.com/rollecode/mastodon-bird-ui)
 5. ❗ Opened issue [#7154](https://github.com/mailcow/mailcow-dockerized/issues/7154) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 <!--END_SECTION:activity-->
