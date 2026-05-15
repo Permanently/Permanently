@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-4370818570) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-2. 🗣 Commented on [#53](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/53#issuecomment-4351191065) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-3. 🗣 Commented on [#3728](https://github.com/ungoogled-software/ungoogled-chromium/issues/3728#issuecomment-4224633453) in [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
-4. ❗ Opened issue [#17](https://github.com/nockscitney/SeratoNowPlaying/issues/17) in [nockscitney/SeratoNowPlaying](https://github.com/nockscitney/SeratoNowPlaying)
+1. 🗣 Commented on [#53](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/53#issuecomment-4460331989) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+2. 🗣 Commented on [#53](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/53#issuecomment-4459937209) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+3. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-4370818570) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+4. 🗣 Commented on [#53](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/53#issuecomment-4351191065) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
 5. 🎉 Merged PR [#179](https://github.com/rollecode/mastodon-bird-ui/pull/179) in [rollecode/mastodon-bird-ui](https://github.com/rollecode/mastodon-bird-ui)
 <!--END_SECTION:activity-->
