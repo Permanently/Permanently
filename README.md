@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173771](https://github.com/home-assistant/core/issues/173771#issuecomment-4702361851) in [home-assistant/core](https://github.com/home-assistant/core)
-2. ❗ Opened issue [#173771](https://github.com/home-assistant/core/issues/173771) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#421](https://github.com/Feramance/qBitrr/issues/421#issuecomment-4576101537) in [Feramance/qBitrr](https://github.com/Feramance/qBitrr)
-4. 🗣 Commented on [#99](https://github.com/t-mart/mousehole/issues/99#issuecomment-4575045131) in [t-mart/mousehole](https://github.com/t-mart/mousehole)
-5. 🔒 Closed issue [#99](https://github.com/t-mart/mousehole/issues/99) in [t-mart/mousehole](https://github.com/t-mart/mousehole)
+1. ❗ Opened issue [#8145](https://github.com/GrapheneOS/os-issue-tracker/issues/8145) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
+2. 🗣 Commented on [#173771](https://github.com/home-assistant/core/issues/173771#issuecomment-4702361851) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❗ Opened issue [#173771](https://github.com/home-assistant/core/issues/173771) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#421](https://github.com/Feramance/qBitrr/issues/421#issuecomment-4576101537) in [Feramance/qBitrr](https://github.com/Feramance/qBitrr)
+5. 🗣 Commented on [#99](https://github.com/t-mart/mousehole/issues/99#issuecomment-4575045131) in [t-mart/mousehole](https://github.com/t-mart/mousehole)
 <!--END_SECTION:activity-->
