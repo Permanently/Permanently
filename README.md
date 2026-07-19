@@ -10,9 +10,9 @@ if you're looking to contact me for any formal reasons, you can contact me via e
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/FiveBoroughs/ffmpeg-asr/pull/3) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
-2. 🗣 Commented on [#2](https://github.com/FiveBoroughs/ffmpeg-asr/pull/2#issuecomment-5016566446) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
-3. 🗣 Commented on [#8145](https://github.com/GrapheneOS/os-issue-tracker/issues/8145#issuecomment-4812199664) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
-4. ❗ Opened issue [#8145](https://github.com/GrapheneOS/os-issue-tracker/issues/8145) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
-5. 🗣 Commented on [#421](https://github.com/Feramance/qBitrr/issues/421#issuecomment-4576101537) in [Feramance/qBitrr](https://github.com/Feramance/qBitrr)
+1. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-5017675148) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+2. 💪 Opened PR [#3](https://github.com/FiveBoroughs/ffmpeg-asr/pull/3) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
+3. 🗣 Commented on [#2](https://github.com/FiveBoroughs/ffmpeg-asr/pull/2#issuecomment-5016566446) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
+4. 🗣 Commented on [#8145](https://github.com/GrapheneOS/os-issue-tracker/issues/8145#issuecomment-4812199664) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
+5. ❗ Opened issue [#8145](https://github.com/GrapheneOS/os-issue-tracker/issues/8145) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
 <!--END_SECTION:activity-->
