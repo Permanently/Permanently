@@ -1,18 +1,23 @@
-### hey!
-my name is billy ([he](https://en.pronouns.page/he/him)/[they](https://en.pronouns.page/they/them)), however some of you may know me as permanently (or "perm"). i'm currently working in the cybersec field, and messing around with code and random projects on the side :)
+<div align="center">
 
-### what are your current aims right now?
-my main focus is just working in cybersec. fun!
-might do some silly random projects on the side, who knows
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
 
-### where can i talk to you?
-if you're looking to contact me for any formal reasons, you can contact me via email! [hey@github.permanently.me](mailto:hey@github.permanently.me)
+# hey, i'm billy 👋
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=6364FF&center=true&vCenter=true&width=440&lines=cybersec+detection+%26+response+engineer;" alt="cybersec detection & response engineer" />
+
+[![Blog](https://img.shields.io/badge/blog-billys.blog-orange?style=flat-square&logo=rss&logoColor=white)](https://billys.blog)
+[![Mastodon](https://img.shields.io/badge/mastodon-billys.mom-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://billys.mom)
+[![Bluesky](https://img.shields.io/badge/bluesky-@billys.mom-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/billys.mom)
+
+</div>
+
+---
+
+i work as a cybersec detection & response engineer, so most of my days are on SOAR, detection engineering, pulling apart malware, developing policies, so on
+
+outside of that, i live in a homelab that's grown well beyond reasonable, but when your hobby is your job, you don't want to work a day in your life :)
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-5182928972) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-2. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-5017675148) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-3. 💪 Opened PR [#3](https://github.com/FiveBoroughs/ffmpeg-asr/pull/3) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
-4. 🗣 Commented on [#2](https://github.com/FiveBoroughs/ffmpeg-asr/pull/2#issuecomment-5016566446) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
-5. ❗ Opened issue [#8145](https://github.com/GrapheneOS/os-issue-tracker/issues/8145) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
 <!--END_SECTION:activity-->
