@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=6364FF&center=true&vCenter=true&width=440&lines=cybersec+detection+%26+response+engineer;" alt="cybersec detection & response engineer" />
 
 [![Blog](https://img.shields.io/badge/blog-billys.blog-orange?style=flat-square&logo=rss&logoColor=white)](https://billys.blog)
-[![Mastodon](https://img.shields.io/badge/mastodon-billys.mom-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://billys.mom)
+[![Mastodon](https://img.shields.io/badge/mastodon-@billy@billys.mom-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://billys.mom/@billy)
 [![Bluesky](https://img.shields.io/badge/bluesky-@billys.mom-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/billys.mom)
 
 </div>
