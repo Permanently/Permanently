@@ -20,8 +20,8 @@ outside of that, i live in a homelab that's grown well beyond reasonable, but wh
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-5182928972) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-2. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-5017675148) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
-3. 💪 Opened PR [#3](https://github.com/FiveBoroughs/ffmpeg-asr/pull/3) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
-4. 🗣 Commented on [#2](https://github.com/FiveBoroughs/ffmpeg-asr/pull/2#issuecomment-5016566446) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
+1. 🗣 Commented on [#695](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/695#issuecomment-5203264904) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+2. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-5182928972) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+3. 🗣 Commented on [#69](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/69#issuecomment-5017675148) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+4. 💪 Opened PR [#3](https://github.com/FiveBoroughs/ffmpeg-asr/pull/3) in [FiveBoroughs/ffmpeg-asr](https://github.com/FiveBoroughs/ffmpeg-asr)
 <!--END_SECTION:activity-->
