@@ -20,8 +20,8 @@ outside of that, i live in a homelab that's grown well beyond reasonable, but wh
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#235](https://github.com/LumePart/Explo/issues/235) in [LumePart/Explo](https://github.com/LumePart/Explo)
-2. ❗ Opened issue [#1](https://github.com/quivings/discord-account-standing-expanded/issues/1) in [quivings/discord-account-standing-expanded](https://github.com/quivings/discord-account-standing-expanded)
-3. 🗣 Commented on [#5650](https://github.com/LizardByte/Sunshine/issues/5650#issuecomment-5586705096) in [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
-4. 🗣 Commented on [#695](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/695#issuecomment-5411331879) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+1. 🗣 Commented on [#53](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/53#issuecomment-6014849188) in [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)
+2. ❗ Opened issue [#235](https://github.com/LumePart/Explo/issues/235) in [LumePart/Explo](https://github.com/LumePart/Explo)
+3. ❗ Opened issue [#1](https://github.com/quivings/discord-account-standing-expanded/issues/1) in [quivings/discord-account-standing-expanded](https://github.com/quivings/discord-account-standing-expanded)
+4. 🗣 Commented on [#5650](https://github.com/LizardByte/Sunshine/issues/5650#issuecomment-5586705096) in [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
 <!--END_SECTION:activity-->
