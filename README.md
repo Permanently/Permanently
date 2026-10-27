@@ -20,8 +20,8 @@ outside of that, i live in a homelab that's grown well beyond reasonable, but wh
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer/issues/13#issuecomment-6417831592) in [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
-2. 🗣 Commented on [#13](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer/issues/13#issuecomment-6360983196) in [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
-3. 💪 Opened PR [#1](https://github.com/dataterminals/AmazonTweaks/pull/1) in [dataterminals/AmazonTweaks](https://github.com/dataterminals/AmazonTweaks)
-4. 🗣 Commented on [#1917](https://github.com/the-djmaze/snappymail/issues/1917#issuecomment-6062489424) in [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail)
+1. 🗣 Commented on [#367](https://github.com/reisxd/TizenTubeCobalt/issues/367#issuecomment-6446080749) in [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt)
+2. 🗣 Commented on [#13](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer/issues/13#issuecomment-6417831592) in [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
+3. 🗣 Commented on [#13](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer/issues/13#issuecomment-6360983196) in [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
+4. 💪 Opened PR [#1](https://github.com/dataterminals/AmazonTweaks/pull/1) in [dataterminals/AmazonTweaks](https://github.com/dataterminals/AmazonTweaks)
 <!--END_SECTION:activity-->
