@@ -20,8 +20,8 @@ outside of that, i live in a homelab that's grown well beyond reasonable, but wh
 
 ### recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8986](https://github.com/ShareX/ShareX/issues/8986#issuecomment-6712512982) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-2. 🗣 Commented on [#367](https://github.com/reisxd/TizenTubeCobalt/issues/367#issuecomment-6446080749) in [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt)
-3. 🗣 Commented on [#13](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer/issues/13#issuecomment-6417831592) in [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
-4. 🗣 Commented on [#13](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer/issues/13#issuecomment-6360983196) in [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
+1. 🗣 Commented on [#8986](https://github.com/ShareX/ShareX/issues/8986#issuecomment-6729207113) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
+2. 🗣 Commented on [#8986](https://github.com/ShareX/ShareX/issues/8986#issuecomment-6712512982) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
+3. 🗣 Commented on [#367](https://github.com/reisxd/TizenTubeCobalt/issues/367#issuecomment-6446080749) in [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt)
+4. 🗣 Commented on [#13](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer/issues/13#issuecomment-6417831592) in [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
 <!--END_SECTION:activity-->
